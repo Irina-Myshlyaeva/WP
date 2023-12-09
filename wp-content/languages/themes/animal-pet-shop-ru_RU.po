@@ -1,0 +1,182 @@
+# Translation of Themes - Animal Pet Shop in Russian
+# This file is distributed under the same license as the Themes - Animal Pet Shop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-17 13:02:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Animal Pet Shop\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Animal Pet Shop"
+msgstr "Animal Pet Shop"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Animal Pet Shop is a clean and sophisticated theme for creating a pet salon, animal care center, pet shop, dog walkers, pultry and animal husbandary farms, pet grooming, and pet sitting services, pet and animal shelter homes, puppy daycare centers, etc. With an elegant design having interesting imagery regarding pet care, this free theme is created as per the latest WordPress standards and brings you the latest codes that are clean and secure. This theme comes along with a highly optimized design that will make a lightweight website and make the pages load quickly delivering faster page load time to give your users a great user experience. If you want to add more to the existing design, there are a lot of personalization options available. In order to make your website ready for an international audience, this theme brings you WPML and RTL compatibility making your website’s content translatable into various languages. The bootstrap framework is used as a base for creating this elegant theme. For bringing you more organic traffic, its creators have made it SEO-friendly. Call to Action Button (CTA) will also take care of the conversion rates. You will find this theme interactive for the audience as well as easy to use fr novices and beginners."
+msgstr "Animal Pet Shop - это чистая и изысканная тема для создания зоосалона, центра по уходу за животными, зоомагазина, службы выгула собак, питомника и животноводческой фермы, службы груминга и выгула домашних животных, приюта для животных, центра по уходу за щенками и т.д. Эта бесплатная тема с элегантным дизайном и интересными изображениями, посвященными уходу за домашними животными, создана в соответствии с последними стандартами WordPress и содержит новейшие коды, которые являются чистыми и безопасными. Эта тема имеет оптимизированный дизайн, который позволяет сделать сайт легким и быстро загружать страницы. Если вы захотите дополнить существующий дизайн, то вам будет доступно множество вариантов персонализации. Для того чтобы ваш сайт был готов к работе с международной аудиторией, в этой теме реализована совместимость с WPML и RTL, благодаря чему содержимое сайта можно переводить на различные языки. В качестве основы для создания этой элегантной темы использован фреймворк bootstrap. Для увеличения органического трафика создатели темы сделали ее SEO-дружественной. Кнопки призыва к действию (CTA) также позаботятся о повышении конверсии. Вы найдете эту тему интерактивной для аудитории, а также простой в использовании для новичков и начинающих пользователей."
+
+#: functions.php:168 functions.php:268
+msgid "Customizer Options"
+msgstr "Настройка темы оформления"
+
+#: functions.php:32
+msgid "Buy Animal Pet Shop Pro"
+msgstr "Купить Animal Pet Shop Pro"
+
+#: functions.php:185
+msgid "Enable Disable Service"
+msgstr "Услуги вкл/откл"
+
+#: functions.php:143
+msgid "Enable Disable Slider Section"
+msgstr "Раздел Слайдер вкл/откл"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Навигация по комментарию"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: functions.php:17
+msgid "https://wordpress.org/support/theme/animal-pet-shop"
+msgstr "https://wordpress.org/support/theme/animal-pet-shop"
+
+#: functions.php:20
+msgid "https://wordpress.org/support/theme/animal-pet-shop/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/animal-pet-shop/reviews/#new-post"
+
+#: functions.php:23
+msgid "https://www.themagnifico.net/demo/animal-pet-shop/"
+msgstr "https://www.themagnifico.net/demo/animal-pet-shop/"
+
+#: functions.php:26
+msgid "https://www.themagnifico.net/themes/animal-wordpress-theme/"
+msgstr "https://www.themagnifico.net/themes/animal-wordpress-theme/"
+
+#: functions.php:29
+msgid "https://www.themagnifico.net/eard/wathiqa/animal-pet-shop-pro-doc/ "
+msgstr "https://www.themagnifico.net/eard/wathiqa/animal-pet-shop-pro-doc/ "
+
+#: functions.php:355
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Шаблон главной страницы"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:72
+msgid "Proudly powered by %s"
+msgstr "На платформе %s"
+
+#: page-template/home-template.php:37 page-template/home-template.php:106
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: functions.php:155
+msgid "Select Slide Page"
+msgstr "Выберите страницу слайдера"
+
+#: functions.php:353
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: footer.php:96
+msgid "TOP"
+msgstr "ВЕРХ"
+
+#: functions.php:133
+msgid "Slider Option"
+msgstr "Вариант слайдера"
+
+#. translators: 1: Theme name,
+#: footer.php:80
+msgid " %1$s"
+msgstr " %1$s"
+
+#. translators: 1: Theme author.
+#: footer.php:85
+msgid "by %1$s."
+msgstr "от %1$s."
+
+#: functions.php:196
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: functions.php:176
+msgid "Here you have to select category which will display perticular services in the home page."
+msgstr "Здесь вы должны выбрать рубрику, которая будет отображать Услуги на главной странице."
+
+#: functions.php:254
+msgid "Icon "
+msgstr "Значок "
+
+#: functions.php:241
+msgid "No Of Icons"
+msgstr "Номер значка"
+
+#: functions.php:175
+msgid "Our Services"
+msgstr "Наши услуги"
+
+#: functions.php:207
+msgid "Section Text"
+msgstr "Текст раздела"
+
+#: functions.php:232
+msgid "Select Category to display services"
+msgstr "Выберите рубрику для отображения услуг"
+
+#: functions.php:14
+msgid "Animal Pet Shop Pro"
+msgstr "Animal Pet Shop Pro"
+
+#: functions.php:134
+msgid "Here you have to select page in below dropdown. Image Dimension ( 1800px x 600px )"
+msgstr "Здесь вы должны выбрать страницу в раскрывающемся списке ниже. Размер изображения (1800 x 600 px)"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.themagnifico.net/themes/free-pet-shop-wordpress-theme/"
+msgstr "https://www.themagnifico.net/themes/free-pet-shop-wordpress-theme/"
